@@ -1,4 +1,5 @@
 x=5 
+/primjer granjanja
 if x==1: 
    print("X = 1") 
 elif x==2: 
